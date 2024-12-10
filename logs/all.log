@@ -1,0 +1,8 @@
+2024-12-03 17:43:45:4345 [32minfo[39m: [32mBefore all tests -> creating database[39m
+2024-12-03 17:43:48:4348 [32minfo[39m: [32mcreating a new pet[39m
+2024-12-03 17:43:48:4348 [32minfo[39m: [32mcreating a new pet[39m
+2024-12-03 17:43:48:4348 [31merror[39m: [31mthis is a error[39m
+2024-12-03 17:43:48:4348 [32minfo[39m: [32mPet was created successfully[39m
+2024-12-03 17:43:48:4348 [31merror[39m: [31mthis is a error[39m
+2024-12-03 17:43:48:4348 [32minfo[39m: [32mPet was created successfully[39m
+2024-12-03 17:43:50:4350 [32minfo[39m: [32mAfter all ->  deleting database[39m
